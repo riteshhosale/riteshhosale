@@ -16,14 +16,6 @@ I’m a passionate developer who enjoys building **full-stack web applications**
 * 🤖 AI-powered Applications
 * 🏆 Hackathons & Team Projects
 
-### 🛠️ Technologies
-
-**Frontend:** HTML • CSS • JavaScript • React.js • Tailwind CSS
-**Backend:** Node.js • Express.js • REST APIs
-**Database:** MongoDB • SQL
-**Tools:** Git • GitHub • VS Code
-**Exploring:** AI/ML • Cybersecurity • Cloud
-
 ### 🎯 Currently
 
 Building projects, improving my **full-stack development skills**, exploring **cybersecurity**, and participating in hackathons.
