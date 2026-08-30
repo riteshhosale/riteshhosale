@@ -1,5 +1,36 @@
 # 💫 About Me:
-Driven to master the full MERN stack and excel as a backend developer, creating scalable, secure, and high-performance applications. Explore my projects on Git<br>
+## 👋 Hi, I'm Ritesh Bhosale
+
+💻 **Full-Stack Developer| Problem Solver**
+
+I’m a passionate developer who enjoys building **full-stack web applications**, integrating APIs, and turning ideas into practical products. I’m also exploring **cybersecurity**, with an interest in building secure and reliable applications.
+
+### 🚀 What I Do
+
+* 🌐 Full-Stack Web Development
+* ⚛️ React.js & Modern Frontend Development
+* 🟢 Node.js & Backend Development
+* 🔗 REST API Development & Integration
+* 🗄️ Database Management
+* 🔐 Cybersecurity & Secure Application Development
+* 🤖 AI-powered Applications
+* 🏆 Hackathons & Team Projects
+
+### 🛠️ Technologies
+
+**Frontend:** HTML • CSS • JavaScript • React.js • Tailwind CSS
+**Backend:** Node.js • Express.js • REST APIs
+**Database:** MongoDB • SQL
+**Tools:** Git • GitHub • VS Code
+**Exploring:** AI/ML • Cybersecurity • Cloud
+
+### 🎯 Currently
+
+Building projects, improving my **full-stack development skills**, exploring **cybersecurity**, and participating in hackathons.
+
+### 📫 Let's Connect
+
+I’m always interested in collaborating on **innovative projects, hackathons, open-source development, and cybersecurity-related ideas**.
 
 
 ## 🌐 Socials:
