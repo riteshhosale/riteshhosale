@@ -27,9 +27,9 @@ export default function HomePage() {
     <>
       <SiteHeader />
       <main id="home">
+        <ProjectsSection projects={projects} />
         <HeroSection />
         <TickerSection />
-        <ProjectsSection projects={projects} />
         <AboutSection />
         <SkillsSection />
         <EducationSection />
