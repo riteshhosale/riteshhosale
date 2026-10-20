@@ -1,28 +1,40 @@
 # Ritesh Bhosale — MERN Portfolio
 
-A personal portfolio built with MongoDB, Express, React, and Node.js. The React frontend uses TypeScript and TSX with strict type checking.
+A personal portfolio built with MongoDB, Express, React, and Node.js. The frontend and backend application code use TypeScript; React components use TSX.
 
 ## Structure
-- `client/`: React + Vite frontend; React components use `.tsx`, Vite configuration uses `.ts`
-- `server/`: Express REST API, MongoDB/Mongoose models, contact endpoint
+- `client/`: React + Vite frontend (`.tsx` components, `.ts` Vite config)
+- `server/`: Express REST API, typed Mongoose model, and project data (`.ts` files)
 
 ## Run locally
 1. Install Node.js 20+ and MongoDB (local or Atlas).
 2. In `server/`, copy `.env.example` to `.env`, then set `MONGODB_URI` and `CLIENT_ORIGIN`.
-3. Run `npm install` and `npm run dev` in `server/`.
-4. In another terminal, go to `client/`, run `npm install`, then `npm run dev`.
+3. In `server/`, run `npm install` then `npm run dev`.
+4. In a second terminal, go to `client/`, run `npm install` then `npm run dev`.
 5. Open the Vite URL printed in the terminal (usually `http://localhost:5173`).
 
-## Frontend production build
-From `client/`, run:
-
+## Build
+Run in `server/`:
 ```bash
 npm run build
+npm start
 ```
 
-This runs the TypeScript check and then creates the Vite production build.
+Run in `client/`:
+```bash
+npm run build
+npm run preview
+```
 
-## Contact API
-The contact form submits to `POST /api/contact`. Project cards are loaded from `GET /api/projects`, with bundled fallback project data available if the API is offline.
+The frontend build runs a strict TypeScript check before Vite builds the production assets.
 
-Configure the backend environment using `server/.env.example` before testing contact submissions. The project has not yet been verified with a production build or deployed.
+## API
+- `GET /api/health` — API and database connection status
+- `GET /api/projects` — portfolio project list
+- `GET /api/projects/:slug` — one project by slug
+- `POST /api/contact` — validate and save a contact message
+
+The contact endpoint requires MongoDB to be connected. Configure the backend environment using `server/.env.example` before testing it.
+
+## Deployment status
+The code has been committed to GitHub. A local production build and live deployment have not yet been verified.
