@@ -1,0 +1,33 @@
+name: Portfolio TypeScript CI
+
+on:
+  push:
+    paths:
+      - "portfolio-mern/**"
+      - ".github/workflows/portfolio-ci.yml"
+  pull_request:
+    paths:
+      - "portfolio-mern/**"
+      - ".github/workflows/portfolio-ci.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install and build API
+        working-directory: portfolio-mern/server
+        run: |
+          npm install
+          npm run build
+      - name: Install and build frontend
+        working-directory: portfolio-mern/client
+        run: |
+          npm install
+          npm run build
