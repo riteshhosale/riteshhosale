@@ -6,6 +6,7 @@ export type Project = {
   stack?: string[];
   repo?: string;
   liveUrl?: string;
+  vercelUrl?: string;
   featured?: boolean;
 };
 
