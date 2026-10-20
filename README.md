@@ -1,41 +1,60 @@
-# 💫 About Me:
-## 👋 Hi, I'm Ritesh Bhosale
+# Ritesh Bhosale — Developer Portfolio
 
-💻 **Full-Stack Developer| Problem Solver**
+> Full-stack developer building useful web products, AI-powered learning tools, and security-focused applications.
 
-I’m a passionate developer who enjoys building **full-stack web applications**, integrating APIs, and turning ideas into practical products. I’m also exploring **cybersecurity**, with an interest in building secure and reliable applications.
+## About
 
-### 🚀 What I Do
+I'm Ritesh Bhosale, a BCA student and developer interested in full-stack engineering, AI/LLM applications, and practical cybersecurity. I like taking an idea from problem definition through interface design, backend implementation, and deployment.
 
-* 🌐 Full-Stack Web Development
-* ⚛️ React.js & Modern Frontend Development
-* 🟢 Node.js & Backend Development
-* 🔗 REST API Development & Integration
-* 🗄️ Database Management
-* 🔐 Cybersecurity & Secure Application Development
-* 🤖 AI-powered Applications
-* 🏆 Hackathons & Team Projects
+- **Focus:** Full-stack development, AI-powered applications, secure web engineering
+- **Core stack:** React, TypeScript, Node.js, Express, MongoDB
+- **Currently building:** EduAvatar AI / AI Teacher and HireGuard
+- **Open to:** Internships, hackathons, open-source collaboration, and projects with a real user problem
 
-### 🎯 Currently
+## Selected projects
 
-Building projects, improving my **full-stack development skills**, exploring **cybersecurity**, and participating in hackathons.
+### EduAvatar AI / AI Teacher
+An AI-assisted learning project focused on teaching from learning materials, generating lessons, and adapting practice to a learner's progress.
+- Stack explored: React, TypeScript, Node.js, MongoDB, embeddings and retrieval-augmented generation
+- Repository: [Ai-Teacher](https://github.com/riteshhosale/Ai-Teacher)
 
-### 📫 Let's Connect
+### HireGuard
+A security-focused project exploring ways to assess suspicious job posts and help users spot potentially fraudulent opportunities.
+- Repository: [HireGuard](https://github.com/riteshhosale/HireGuard)
 
-I’m always interested in collaborating on **innovative projects, hackathons, open-source development, and cybersecurity-related ideas**.
+### Travel Together
+A trip-planning application for finding or creating trips, joining other travelers, and communicating with trip members.
+- Stack: MERN, Socket.IO, JWT
+- Repository: [travel-together](https://github.com/riteshhosale/travel-together)
 
+### Expense Tracker
+A full-stack app for tracking personal expenses with a React frontend and Node/Express backend.
+- Repository: [expenses-tracker](https://github.com/riteshhosale/expenses-tracker)
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshbhosale092007@gmail.com) 
+### MediScan
+A project focused on a medical-related web workflow.
+- Repository: [MediScan](https://github.com/riteshhosale/MediScan)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=riteshhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=riteshhosale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=riteshhosale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Skills
+
+**Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Vite  
+**Backend:** Node.js, Express, REST APIs, authentication, Socket.IO  
+**Data:** MongoDB, Mongoose  
+**AI:** LLM integrations, embeddings, RAG concepts  
+**Tools:** Git, GitHub, Docker, Vercel, Render
+
+> Skills and project descriptions reflect the work I have explored; project capabilities can change as development continues.
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+Sheth N.K.T.T. College of Commerce and Sheth J.T.T. College of Science and Arts
+
+## Connect
+
+- GitHub: [@riteshhosale](https://github.com/riteshhosale)
+- Email: [riteshbhosale092007@gmail.com](mailto:riteshbhosale092007@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=riteshhosale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*This is my developer profile README. For a visual, multi-section portfolio site, connect a website source repository to Vercel and use this profile content as its source of truth.*
