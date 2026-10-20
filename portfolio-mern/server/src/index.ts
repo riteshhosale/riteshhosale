@@ -1,5 +1,6 @@
 import "dotenv/config";
 import express, { type ErrorRequestHandler, type Request, type Response } from "express";
+import type { ParamsDictionary } from "express-serve-static-core";
 import cors from "cors";
 import mongoose from "mongoose";
 import Contact from "./models/Contact.js";
@@ -43,7 +44,7 @@ type ContactPayload = {
   message?: unknown;
 };
 
-app.post("/api/contact", async (req: Request<Record<string, never>, unknown, ContactPayload>, res: Response) => {
+app.post("/api/contact", async (req: Request<ParamsDictionary, unknown, ContactPayload>, res: Response) => {
   try {
     const { name, email, subject, message } = req.body ?? {};
 
