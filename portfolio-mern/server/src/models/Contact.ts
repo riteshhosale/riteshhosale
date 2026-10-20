@@ -5,8 +5,8 @@ export interface ContactDocument {
   email: string;
   subject: string;
   message: string;
-  createdAt: Date;
-  updatedAt: Date;
+  createdAt?: Date;
+  updatedAt?: Date;
 }
 
 const contactSchema = new Schema<ContactDocument>(
