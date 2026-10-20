@@ -4,7 +4,8 @@ export type Project = {
   category: string;
   description: string;
   stack: string[];
-  repo: string;
+  repo?: string;
+  liveUrl?: string;
   featured?: boolean;
 };
 
