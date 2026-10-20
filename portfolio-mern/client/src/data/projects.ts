@@ -9,7 +9,6 @@ export const fallbackProjects: Project[] = [
     stack: ["React", "Web security", "Full-stack"],
     repo: "https://github.com/riteshhosale/HireGuard",
     liveUrl: "https://job-guard-ai-i4od.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/job-guard-ai-i4od",
     featured: true,
   },
   {
@@ -20,7 +19,6 @@ export const fallbackProjects: Project[] = [
     stack: ["React", "TypeScript", "Node.js", "MongoDB", "RAG"],
     repo: "https://github.com/riteshhosale/Ai-Teacher",
     liveUrl: "https://ai-teacher-seven-jade.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/ai-teacher",
     featured: true,
   },
   {
@@ -30,7 +28,6 @@ export const fallbackProjects: Project[] = [
     description: "A simple task management website for organizing everyday tasks.",
     stack: ["React", "Task management", "Web app"],
     liveUrl: "https://toda-app-tawny.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/toda-app",
     featured: true,
   },
   {
@@ -41,7 +38,6 @@ export const fallbackProjects: Project[] = [
     stack: ["React", "Node.js", "Express"],
     repo: "https://github.com/riteshhosale/expenses-tracker",
     liveUrl: "https://expenses-tracker-phi-blush.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/expenses-tracker",
     featured: true,
   },
   {
@@ -52,7 +48,6 @@ export const fallbackProjects: Project[] = [
     stack: ["MERN", "Socket.IO", "JWT", "MongoDB"],
     repo: "https://github.com/riteshhosale/travel-together",
     liveUrl: "https://travel-together-neon.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/travel-together",
     featured: true,
   },
   {
@@ -63,7 +58,6 @@ export const fallbackProjects: Project[] = [
     stack: ["Web development", "JavaScript"],
     repo: "https://github.com/riteshhosale/notes-app",
     liveUrl: "https://notes-app-brct.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/notes-app-brct",
     featured: true,
   },
   {
@@ -74,7 +68,6 @@ export const fallbackProjects: Project[] = [
     stack: ["HTML", "CSS", "JavaScript"],
     repo: "https://github.com/riteshhosale/age-calcualator",
     liveUrl: "https://age-calcualator.vercel.app",
-    vercelUrl: "https://vercel.com/riteshs-projects-660a63e8/age-calcualator",
     featured: true,
   },
   {
