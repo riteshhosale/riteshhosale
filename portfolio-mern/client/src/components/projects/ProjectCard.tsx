@@ -1,4 +1,4 @@
-import { ArrowUpRight, ExternalLink, Github, Globe, Triangle } from "lucide-react";
+import { ArrowUpRight, ExternalLink, Github, Globe } from "lucide-react";
 import type { Project } from "../../types/portfolio";
 
 export default function ProjectCard({ project, index }: { project: Project; index: number }) {
@@ -20,11 +20,6 @@ export default function ProjectCard({ project, index }: { project: Project; inde
         {project.repo && (
           <a className="project-link" href={project.repo} target="_blank" rel="noreferrer">
             <Github size={15} /> Source code <ExternalLink size={14} />
-          </a>
-        )}
-        {project.vercelUrl && (
-          <a className="project-link project-vercel-link" href={project.vercelUrl} target="_blank" rel="noreferrer">
-            <Triangle size={14} fill="currentColor" strokeWidth={1.5} /> Vercel dashboard <ArrowUpRight size={14} />
           </a>
         )}
       </div>
