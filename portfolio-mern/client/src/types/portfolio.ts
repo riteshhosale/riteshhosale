@@ -3,7 +3,7 @@ export type Project = {
   name: string;
   category: string;
   description: string;
-  stack: string[];
+  stack?: string[];
   repo?: string;
   liveUrl?: string;
   featured?: boolean;
